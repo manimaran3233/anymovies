@@ -41,4 +41,4 @@ Akpojiyovwi Tega
 # Acknowledgments
 www.themoviedb.org for all movie details and api
 # Note
-It is **illegal** to download copyrighted material without permission
+this is for testing and education purpose only
