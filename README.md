@@ -1,4 +1,4 @@
-# Terader-Movie-Hub-Telegram-Bot
+# Telegram movie download bot
 🎥 A Telegram bot that helps users search and download movies.
 
 ![alt search](https://res.cloudinary.com/dkhelyskt/image/upload/v1674738007/Screenshot_20230126_015717_wwpidv.png)
